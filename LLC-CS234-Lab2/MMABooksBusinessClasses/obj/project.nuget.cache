@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSMJprgn6qg41oAvgCc1DB9UaYD0bg+bKmZt4QLErG4M84cDCz2f2zYa1g2zx5TO56s1GSD4JokXQUTUlPiBeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15412\\Documents\\CS234N\\lab2\\ado_lab_2023-stewartl71-master\\ado_lab_2023-stewartl71-master\\ado_lab_2022-stewartl71-master\\MMABooksADO\\MMABooksBusinessClasses\\MMABooksBusinessClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15412\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
