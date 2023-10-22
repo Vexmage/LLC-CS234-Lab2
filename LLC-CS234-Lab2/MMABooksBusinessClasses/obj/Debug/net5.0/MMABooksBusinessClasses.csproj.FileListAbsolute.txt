@@ -27,3 +27,4 @@ C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\ado_lab_2023
 C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\ado_lab_2023-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksBusinessClasses\bin\Debug\net5.0\nunit.engine.api.dll
 C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\ado_lab_2023-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksBusinessClasses\bin\Debug\net5.0\nunit.engine.core.dll
 C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\ado_lab_2023-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\MMABooksBusinessClasses\bin\Debug\net5.0\testcentric.engine.metadata.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\ado_lab_2023-stewartl71-master\ado_lab_2022-stewartl71-master\MMABooksADO\LLC-CS234-Lab2\MMABooksBusinessClasses\obj\Debug\net5.0\MMABooksBusinessClasses.GeneratedMSBuildEditorConfig.editorconfig

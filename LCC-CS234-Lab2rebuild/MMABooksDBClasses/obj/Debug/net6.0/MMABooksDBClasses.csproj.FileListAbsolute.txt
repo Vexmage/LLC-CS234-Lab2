@@ -1,0 +1,16 @@
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\mySqlSettings.json
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\MMABooksDBClasses.deps.json
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\MMABooksDBClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\MMABooksDBClasses.pdb
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\MMABooksBusinessClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\bin\Debug\net6.0\MMABooksBusinessClasses.pdb
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.csproj.AssemblyReference.cache
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.AssemblyInfoInputs.cache
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.AssemblyInfo.cs
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.csproj.CoreCompileInputs.cache
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.csproj.CopyComplete
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\refint\MMABooksDBClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\MMABooksDBClasses.pdb
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksDBClasses\obj\Debug\net6.0\ref\MMABooksDBClasses.dll

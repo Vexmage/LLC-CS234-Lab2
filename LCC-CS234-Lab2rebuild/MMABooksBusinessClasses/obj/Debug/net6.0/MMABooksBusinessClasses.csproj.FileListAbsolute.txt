@@ -1,0 +1,11 @@
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.deps.json
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\bin\Debug\net6.0\MMABooksBusinessClasses.pdb
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.AssemblyInfoInputs.cache
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.AssemblyInfo.cs
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.csproj.CoreCompileInputs.cache
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\refint\MMABooksBusinessClasses.dll
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\MMABooksBusinessClasses.pdb
+C:\Users\15412\Documents\CS234N\lab2\ado_lab_2023-stewartl71-master\MMABooksADO\LCC-CS234-Lab2rebuild\MMABooksBusinessClasses\obj\Debug\net6.0\ref\MMABooksBusinessClasses.dll
